@@ -2,6 +2,8 @@
 
 Forecast future product demand with **Facebook Prophet** and compute optimal **Economic Order Quantity (EOQ)** parameters – all from an interactive [Streamlit](https://streamlit.io/) dashboard.
 
+![Project banner](milk-forecast.png)
+
 ---
 
 ## 📚 What this project does
