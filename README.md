@@ -14,6 +14,7 @@ Forecast future product demand with **Facebook Prophet** and compute optimal **E
     S = F\,L
   \]  
   where *F* is the one‑year forecasted demand.
+  where *F* is the one‑year forecasted demand.
 * **Downloadable results** – export the full forecast to CSV at the click of a button.
 * **Beautiful visuals** – embedded Plotly charts and a custom Streamlit colour theme.
 
@@ -85,7 +86,7 @@ Issues and PRs are welcome! Feel free to:
 
 ## 📜 License
 
-Licensed under the **MIT License** – see `LICENSE`.
+Licensed under the **MIT License**.
 
 ---
 
