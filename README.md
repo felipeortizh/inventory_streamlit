@@ -7,14 +7,7 @@ Forecast future product demand with **Facebook Prophet** and compute optimal **E
 ## 📚 What this project does
 * **Time‑series forecasting** – fits a Prophet model on historical monthly demand (sample data provided).
 * **Interactive sliders** – pick fixed order cost (*k*), annual holding cost per unit (*h*), and supplier lead‑time (*L*).
-* **EOQ & Re‑order point** – instantly calculates  
-  \[
-    \small
-    Q = \sqrt{\frac{kF}{h}},\qquad
-    S = F\,L
-  \]  
-  where *F* is the one‑year forecasted demand.
-  where *F* is the one‑year forecasted demand.
+* **EOQ & Re‑order point** – instantly calculates how much and when you should order.
 * **Downloadable results** – export the full forecast to CSV at the click of a button.
 * **Beautiful visuals** – embedded Plotly charts and a custom Streamlit colour theme.
 
