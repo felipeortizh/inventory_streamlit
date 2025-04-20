@@ -59,14 +59,6 @@ Open the URL shown in the console (default <http://localhost:8501>) and start ex
 
 ---
 
-## ☁️ Deploy in 3 steps (Streamlit Community Cloud)
-
-1. Push the repo to GitHub (already done).  
-2. Create a **new app** on <https://share.streamlit.io>.  
-3. Point it to `inventario_prophet.py` on the `main` branch and click **Deploy** – that’s it!
-
----
-
 ## 🤝 Contributing
 
 Issues and PRs are welcome! Feel free to:
